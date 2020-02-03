@@ -1,5 +1,5 @@
 
-                                                 Javascript Map ☕️ 
+                                                 Javascript Map 🎯
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](r)                   
 ![mapagif-min](https://user-images.githubusercontent.com/47280551/73630467-e1dfb680-4634-11ea-8480-b8b2ee91e625.gif)
 
