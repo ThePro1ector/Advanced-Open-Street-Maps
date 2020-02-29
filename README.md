@@ -87,14 +87,12 @@ $ /client grunt
 
 
 
-
 ###  O'What do these tasks do?
 
   - <b>Grunt Server</b>: monitoring what you do and possible errors in your code.
   - <b>Grunt</b>: Minify files and save a backup of your project.
 
 <br>
-
 
 
 
