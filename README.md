@@ -7,9 +7,6 @@
 
 ### Description
 ```sh
-One of the projects that took me the longest to do, this is a completely free map, offered by the company Open Street Maps and Leaflet
-
-The data is rendered on the map, through a get via api, there are several legal settings, such as real time, cache and others. =)
 
 
 Swagger documentation : https://open-map-api.herokuapp.com/docs
@@ -17,8 +14,6 @@ Swagger documentation : https://open-map-api.herokuapp.com/docs
 Published Example: https://open-map-front.herokuapp.com
 
 Heroku on Free, Not supported Redis- Cached!
-
-Settings  .env
 
 ```
 
