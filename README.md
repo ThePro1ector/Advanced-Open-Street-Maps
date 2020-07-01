@@ -8,6 +8,7 @@
 ### Description
 ```sh
 
+A nice map in reactjs with all the elements you will need in a map, filters, custom styles and more
 
 Swagger documentation : https://open-map-api.herokuapp.com/docs
 
